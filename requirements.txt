@@ -1,0 +1,25 @@
+# Core Dependencies
+flask==2.3.3
+flask-cors==4.0.0
+pyshark==0.6
+requests==2.31.0
+dnspython==2.4.2
+
+# Security & Encryption
+cryptography==41.0.7
+pyjwt==2.8.0
+
+# Database (Optional)
+sqlalchemy==2.0.23
+flask-sqlalchemy==3.1.1
+
+# Notifications (Optional)
+twilio==8.9.1
+
+# Development & Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Additional utilities
+python-dotenv==1.0.0
+schedule==1.2.0
