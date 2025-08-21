@@ -63,7 +63,7 @@ A comprehensive **Intrusion Detection System** with real-time network monitoring
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/network-security-monitor.git
+git clone https://github.com/Manushprajwal7/Secure-Net-
 cd network-security-monitor
 ```
 
